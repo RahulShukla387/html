@@ -1,0 +1,75 @@
+ /*button:hover{
+  background-color: red;
+  color: aqua;
+}
+h1:hover{
+  background-color: red;
+  color: aqua;
+}  
+
+button:active{
+  background-color: black;
+}
+input[type = "radio"]:checked + label {
+  color: brown;
+  background-color: antiquewhite;
+  font-weight: bold;
+}
+p:nth-of-type(2n-1){
+  background-color: chocolate;
+}
+/* if we have to apply on first letter */
+/*#myId::first-letter{
+  color: green;
+}
+  
+ /*if we have to apply on first line */
+/*#myId::first-line{
+  color: green;}*/
+
+ /*if we have to apply on selected word */
+/*#myId::selection{
+  color: red;
+}
+h1:hover{
+  background-color: chartreuse; !important;
+} 
+div{
+  background-color: crimson;
+} */
+ #mainTopic{
+  color: blue;
+ }
+ *{
+  text-align: center;
+ }
+ h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ h3{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ h5{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ #para{
+  color: white;
+  background-color: blue;
+ }
+ div{
+  background-color: purple;
+  color: azure;
+ }
+ button:hover{
+  background-color: yellow;
+  color: blue;
+ }
+p:nth-of-type(2n-1){
+  color: yellow;
+}
+h1::first-line{
+  color: red;
+}
+input[type = "checkbox"]:checked + label{
+ background-color: darkgreen;
+}
